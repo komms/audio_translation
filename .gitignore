@@ -1,5 +1,4 @@
-data/David Goggins_ How to Build Immense Inner Strength.mp4
-data/output-audio.wav
+
 .vscode/
 notes.md
 # Created by https://www.toptal.com/developers/gitignore/api/python
@@ -178,4 +177,6 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# user defined
+data
 # End of https://www.toptal.com/developers/gitignore/api/python
